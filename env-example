@@ -71,3 +71,13 @@ REDIS_PORT=6379
 ### MONGODB ###############################################
 
 MONGODB_PORT=27017
+
+### MYSQL #################################################
+
+MYSQL_VERSION=latest
+MYSQL_DATABASE=default
+MYSQL_USER=default
+MYSQL_PASSWORD=secret
+MYSQL_PORT=3306
+MYSQL_ROOT_PASSWORD=root
+
